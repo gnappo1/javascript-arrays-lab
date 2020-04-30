@@ -16,6 +16,11 @@ off.
 
 Now it's time to put what we've learned to the test.
 
+## Video
+
+<iframe width="100%" height="720" src="https://youtu.be/SmztcXRZm6Y?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+View JS Arrays Video Review: Argument VS Parameter on Learn.co and start learning to code for free.
+
 ## What's with all this destruction?
 
 You might have noticed that our tests are looking for functions like
